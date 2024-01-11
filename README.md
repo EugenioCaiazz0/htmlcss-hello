@@ -1,6 +1,10 @@
 htmlcss-hello
 ===
 Abstract:xxx
+
+## Set di cose che non conosco ma si vedrà in futuro
+## Esercizio di base per inviare modifiche al file di lavoro in remoto, pubblico o privato che sia, tramite step stage-commit-push e norme (da approfondire) sui commenti da abbinare a un push per agevolare la leggibilità
+
 ## Paper Information
 - Title:  `Hello World`
 - Authors:  `Eugenio Caiazzo`
